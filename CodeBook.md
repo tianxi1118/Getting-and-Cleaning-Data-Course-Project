@@ -78,7 +78,7 @@ fbodybodygyrojerkmag-std	| Standard deviation frequency of magnitude of body gyr
 
 Variable | Names
 ------------ | -------------
-Data	|  Data set merged the training and the test sets.
+Data	|  Data set merged from the training and the test sets.
 activityLabels | Descriptive activity names
 averageData | Average of each variable for each activity and each subject
 
