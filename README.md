@@ -10,7 +10,7 @@ Here are the data for the project:
 
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 
-## run_analysis.R that does the following: 
+## run_analysis.R does the following: 
 
 Merges the training and the test sets to create one data set.
 Extracts only the measurements on the mean and standard deviation for each measurement. 
@@ -18,10 +18,10 @@ Uses descriptive activity names to name the activities in the data set
 Appropriately labels the data set with descriptive variable names. 
 From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
-## documents delivered for this project
+## Documents delivered for this project
 
-1) a tidy data set  
-2) a link to a Github repository with run_analysis.R for performing the analysis
+1) a tidy data set.  
+2) a link to a Github repository with run_analysis.R for performing the analysis.
 3) a code book that describes the variables, the data, and any transformations or work that is performed to clean up the data called CodeBook.md. 
 4) a README.md in the repo with scripts. This repo explains how all of the scripts work and how they are connected.  
 
